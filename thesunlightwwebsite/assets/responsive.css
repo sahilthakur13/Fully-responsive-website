@@ -1,0 +1,40 @@
+@media(max-width:1210px){
+   #revo-size{
+      font-size: 30px;
+   }
+}
+@media (max-width:997px){
+  #tokens{
+   font-size: 19px;
+  } 
+  #h1-size{
+   font-size: 37px;
+  }
+  #revo-size{
+   font-size: 22px;
+  }
+  #h1-ads{
+   font-size: 32px;
+  }
+  #h-style-3{
+   font-size: 47px;
+  }
+}
+@media (max-width:633px){
+    #h1-1{
+       font-size: 31px;
+       line-height: 50px;
+    }
+    #h1-size{
+        font-size: 20px;
+     }
+     #h1-sunlight{
+        font-size: 45px;
+     }
+     #h1-ads{
+        font-size: 25px;
+     }
+     #h-style-3{
+        font-size: 29px;
+} 
+}
